@@ -10,9 +10,6 @@ Here are some ideas to get you started:
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhaowang1213&layout=compact&theme=radical)
 
-## Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanhaowang1213&theme=react-dark)
-
 
 
 

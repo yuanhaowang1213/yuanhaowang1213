@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Diffusion models and Neural rendering
 - 📫 How to reach me: yuanhao.wang@kaust.edu.sa  
 -->
-
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhaowang1213&layout=compact&theme=radical)
 
 ## Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanhaowang1213&theme=react-dark)
 
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhaowang1213&layout=compact&theme=radical)
+
 

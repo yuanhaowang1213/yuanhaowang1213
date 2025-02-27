@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuanhao.wang@kaust.edu.sa  
 -->
 
-## Recent Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=yuanhaowang1213&theme=github)
+
+## Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanhaowang1213&theme=react-dark)
 
 
 ## Most Used Languages

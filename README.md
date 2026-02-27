@@ -4,8 +4,6 @@
 - 📫 How to reach me: yuanhao.wang1989@gmail.com
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhaowang1213&layout=compact&theme=radical)
 
 
-![Yuanhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanhaowang1213&show_icons=true&theme=dracula&count_private=true&hide=commits,contribs)
-
+![Metrics](https://metrics.lecoq.io/yuanhaowang1213)
